@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VisualShoppingTool</string>
+    <string name="tab_text_1">Text Recognizer</string>
+    <string name="tab_text_2">Shopping List</string>
+    <string name="tab_text_3">Search</string>
+
+    <string name="search">Search</string>
+    <string name="add_button_text">Add</string>
+    <string name="migros">Migros</string>
+    <string name="a101">A101</string>
+    <string name="sok">ŞOK</string>
+    <string name="enter_search_product">Enter search product</string>
+    <string name="back">Back</string>
+
+    <string name="txt_message">No Text Available</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+</resources>
